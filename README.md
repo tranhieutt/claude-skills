@@ -283,7 +283,6 @@ Repo: [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravit
 | **Andruia Suite** | `00-andruia-consultant`, `10-andruia-skill-smith`, `20-andruia-niche-intelligence` |
 | **Writing** | `writing-skills`, `writing-plans` |
 
-> Xem đầy đủ tại: `~/.claude/plugins/marketplaces/antigravity-awesome-skills/skills/`
 
 ---
 
@@ -339,7 +338,7 @@ Repo: [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude
 | **Scientific Computing** | `astropy`, `dask`, `cirq`, `adaptyv` |
 | **Integration** | `benchling-integration`, `bioservices`, `bgpt-paper-search` |
 
-> Xem đầy đủ tại: `~/.claude/plugins/marketplaces/claude-scientific-skills/scientific-skills/`
+
 
 ---
 
